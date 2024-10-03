@@ -1,0 +1,37 @@
+{
+    "music_disc.pigstep": {
+        "sounds": [
+            {
+                "name": "minecraft:records/pigstep",
+                "stream": true,
+				"length": 256.0464
+            }
+        ]
+    },
+       "music_disc.13": {
+        "sounds": [
+            {
+                "name": "minecraft:records/13",
+                "stream": true,
+				"length": 600.0
+            }
+        ]
+    },
+	{
+    "music_disc.cat": {
+        "sounds": [
+            {
+                "name": "minecraft:records/cat",
+                "stream": true
+            }
+        ]
+    },
+	    "music_disc.blocks": {
+        "sounds": [
+            {
+                "name": "minecraft:records/blocks",
+                "stream": true
+            }
+        ]
+    }
+}
